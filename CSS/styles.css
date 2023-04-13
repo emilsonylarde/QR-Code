@@ -1,0 +1,29 @@
+body {
+    background-color: #ECF2FF;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin: 20px 3px 10px 3px;
+    border-radius: 15px;
+   
+}
+
+.qr-container {
+    background-color: white;
+    width: 250px;
+    margin: 115px auto;
+    border-radius: 15px;
+    height: 390px;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+}
+
+.description {
+    font-size: 14px;
+    margin: 20px 25px auto 25px;
+}
